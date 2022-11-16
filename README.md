@@ -1,4 +1,4 @@
-# Doctor_Suggestions_API_SprinBoot
+# Doctor_Suggestions_API_SpringBoot
 
 ### The Task
 We have a platform where doctors can register their patients through a mobile or web portal. For this to work we need to build backend APIs to achieve task like:
